@@ -37,6 +37,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Hemos elegido a Diego Armando y a Wendy Oldbag para tener a dos personas de edades dispares, una persona de 27 años y otra de 60. También a personas tanto con cualificaciones universitarias como de FP. Buscamos tener a personas con distintos conocimientos de informática y software. En definitiva, tener a dos personas que sean distintas y complementarias entre sí.
 
+![](P1/Persona\ Diego\ Armando.png)
+![](P1/Persona\ Wendy\ Oldbag.png)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
