@@ -24,6 +24,9 @@ Esta página está hecha exclusivamente para experiencias culinarias, por lo que
 
 Esta página está orientada únicamente a conciertos y eventos musicales. Es obligatorio registrarse para poder acceder a todos los eventos. Una vez registrado solo es necesario poner una localización para poder acceder a todos los eventos que haya en esa ciudad. Cuando eliges un evento, automáticamente te redirige a una página con un video del artista que vaya a realizar el  concierto cantando una canción. Esta página es muy accesible y simple, no es complicada de usar, sin embargo solo está orientado a este tipo de eventos y su variedad por cada localización es muy pobre.
 
+#### ¿Cuál elegimos?
+
+Hemos elegido Meetup porque nos parece que es la plataforma de experiencias de ocio de caracter más general y que es la más profesional de todas las de su tipo. Queremos que el análisis y la búsqueda de fallos sea un reto, es por esto que vamos a trabajar con meetup.com.
 
 ## Personas 
 
