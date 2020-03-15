@@ -30,7 +30,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
+>>> Hemos elegido Meetup porque nos parece que es la plataforma de experiencias de ocio de caracter más general y que es la más profesional de todas las de su tipo. Queremos que el análisis y la búsqueda de fallos sea un reto, es por esto que vamos a trabajar con meetup.com.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
