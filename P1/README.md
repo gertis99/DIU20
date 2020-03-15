@@ -30,10 +30,14 @@ Hemos elegido Meetup porque nos parece que es la plataforma de experiencias de o
 
 ## Personas 
 
+Hemos elegido a Diego Armando y a Wendy Oldbag para tener a dos personas de edades dispares, una persona de 27 años y otra de 60. También a personas tanto con cualificaciones universitarias como de FP. Buscamos tener a personas con distintos conocimientos de informática y software. En definitiva, tener a dos personas que sean distintas y complementarias entre sí.
+
 ![](DiegoArmando.png)
 ![](WendyOldbag.png)
 
 ## Journey Map
+
+Hemos elegido estas experiencias porque son sucesos que nos han ocurrido a nosotros mismos en varias ocasiones mientras estábamos testeando meetup.com. Pensamos que son experiencias que pueden llegar a ser reales y por eso están hechas así.
 
 ![](JourneyMapArmando.png)
 ![](JourneyMapOldbag.png)
@@ -41,3 +45,7 @@ Hemos elegido Meetup porque nos parece que es la plataforma de experiencias de o
 ## Revisión de Usabilidad
 
 Puedes acceder al documento desde [aquí](https://github.com/ralesdi/DIU20/blob/master/P1/UsabilityReview.pdf)
+
+Valoración final (numérica): 78
+
+Comentario sobre la valoración: calificamos a esta página con esta nota debido a que nos parece que está muy bien trabajada. Es muy profesional, creemos que puede ser utilizada por todo tipo de personas debido a su accesibilidad y que en general cumple con su objetivo sin ningún problema. Si bien, para realizar funciones más allá de apuntarse a actividades está más limitada.
