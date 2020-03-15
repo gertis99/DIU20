@@ -37,4 +37,4 @@ Esta página está orientada únicamente a conciertos y eventos musicales. Es ob
 
 ## Revisión de Usabilidad
 
-Puedes acceder al documento desde ![aquí](https://github.com/ralesdi/DIU20/blob/master/P1/UsabilityReview.pdf)
+Puedes acceder al documento desde [aquí](https://github.com/ralesdi/DIU20/blob/master/P1/UsabilityReview.pdf)
