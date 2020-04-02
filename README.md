@@ -77,8 +77,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
-
->>> Definir "User Map" y "Task Flow" ...
+![](P2/UserMatrix.PNG)
+>>> Hemos elegido la matriz ya que nos parece que es la forma más rápida y visual de ver que actividades son más importantes y se van usar más y que tipo de usuarios tendremos. Aparte de los usuarios de baja/media/alta frecuencia de nuestra web, hemos querido tener en consideración también a los usuarios que no están registrados y a los usuarios que solo están interesados en crear actividades, ya que creemos que son un grupo de personas bastante importante también. 
 
 
 ![Método UX](img/labelling.png) 2.c Labelling
