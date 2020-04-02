@@ -87,11 +87,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![](P2/ArquitecturaInformación-Labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
