@@ -88,7 +88,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+>>> [Aquí](P2/DIU_Doc.pdf) está nuestra propuesta de frontend.
 
 
 ## Paso 3. Make (Prototyping)
