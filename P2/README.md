@@ -1,13 +1,13 @@
-#Práctica 2
+# Práctica 2
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+## 2.a Feedback Capture Grid
 ----
 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
-![](P2/malla.png)
+![](malla.png)
 
 
 
