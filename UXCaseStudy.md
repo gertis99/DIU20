@@ -93,6 +93,7 @@ Para poder crear una aplicación, antes debemos planear como queremos que se vea
 
 ## Wireframes
 Una vez hechos los bocetos y están pulidos, podemos pasar a ver como se verían en una buena calidad.
+
 ![](P3/PortadaHiFi.png)
 
 ## Style Guide
