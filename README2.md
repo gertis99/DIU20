@@ -60,36 +60,25 @@ Hemos elegido estas experiencias porque son sucesos que nos han ocurrido a nosot
 ![](P1/JourneyMapArmando.png)
 ![](P1/JourneyMapOldbag.png)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
->>> - Enlace al [documento](https://github.com/ralesdi/DIU20/blob/master/P1/UsabilityReview.pdf)
->>> - Valoración final (numérica): 78
->>> - Comentario sobre la valoración: calificamos a esta página con esta nota debido a que nos parece que está muy bien trabajada. Es muy profesional, creemos que puede ser utilizada por todo tipo de personas debido a su accesibilidad y que en general cumple con su objetivo sin ningún problema. Si bien, para realizar funciones más allá de apuntarse a actividades está más limitada.
+# Usability Review
+Para valorar de la mejor manera posible la página (competidora) de meetup, hicimos un estudio donde valoramos de forma objetiva distintos aspectos referentes a la experiencia del usuario y otras funcionalidades, asignándole una nota final a la página web. 
+[documento](https://github.com/ralesdi/DIU20/blob/master/P1/UsabilityReview.pdf)
+Valoración final (numérica): 78
+Calificamos a esta página con esta nota debido a que nos parece que está muy bien trabajada. Es muy profesional, creemos que puede ser utilizada por todo tipo de personas debido a su accesibilidad y que en general cumple con su objetivo sin ningún problema. Si bien, para realizar funciones más allá de apuntarse a actividades está más limitada.
 
 
-## Paso 2. UX Design  
-
-
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
-----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
+## UX Design  
 
 ![](P2/malla.png)
 
+Queremos crear una aplicación que permita más facilmente a los usuarios comunicarse entre sí para llevar a cabo actividades, añadiendo la posibilidad de que puedan tener retribuciones económicas y que puedan profesionalizar estos servicios. Queremos que sea lo más simple posible para los usuarios, intentando apelar al lenguaje simbólico en lugar del natural.
 
-
->>> Queremos crear una aplicación que permita más facilmente a los usuarios comunicarse entre sí para llevar a cabo actividades, añadiendo la posibilidad de que puedan tener retribuciones económicas y que puedan profesionalizar estos servicios. Queremos que sea lo más simple posible para los usuarios, intentando apelar al lenguaje simbólico en lugar del natural.
-
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
------
+#Tasks and Sitemap
 ![](P2/UserMatrix.PNG)
->>> Hemos elegido la matriz ya que nos parece que es la forma más rápida y visual de ver que actividades son más importantes y se van usar más y que tipo de usuarios tendremos. Aparte de los usuarios de baja/media/alta frecuencia de nuestra web, hemos querido tener en consideración también a los usuarios que no están registrados y a los usuarios que solo están interesados en crear actividades, ya que creemos que son un grupo de personas bastante importante también.
+Hemos elegido la matriz ya que nos parece que es la forma más rápida y visual de ver que actividades son más importantes y se van usar más y que tipo de usuarios tendremos. Aparte de los usuarios de baja/media/alta frecuencia de nuestra web, hemos querido tener en consideración también a los usuarios que no están registrados y a los usuarios que solo están interesados en crear actividades, ya que creemos que son un grupo de personas bastante importante también.
 
 ![](P2/ArquitecturaInformación-Estructura.png)
->>> Con esta estructura intentamos que la página sea lo más cómodamente navegable posible. Desde la página principal se puede acceder a prácticamente todas las prestaciones de la web. Dentro de la búsqueda, se podrá acceder a las actividades o grupos deseadas. Si quieres apuntarte a una actividad o grupo sin haber iniciado sesión, se te redigirá a la página de inicio de sesión, para que el usuario no tenga que dar ningún rodeo él. Desde una actividad podrás acceder al grupo que la ha creado, y desde un grupo podrás acceder a todas las actividades que dicho grupo ha creado.
+Con esta estructura intentamos que la página sea lo más cómodamente navegable posible. Desde la página principal se puede acceder a prácticamente todas las prestaciones de la web. Dentro de la búsqueda, se podrá acceder a las actividades o grupos deseadas. Si quieres apuntarte a una actividad o grupo sin haber iniciado sesión, se te redigirá a la página de inicio de sesión, para que el usuario no tenga que dar ningún rodeo él. Desde una actividad podrás acceder al grupo que la ha creado, y desde un grupo podrás acceder a todas las actividades que dicho grupo ha creado.
 
 ## Labelling
 Para empezar, creamos la jerarquía de nuestra página web. Al crearla intentamos que fuera lo más sencilla y simple posible para que el usuario se adaptara facilmente a ella. Queríamos que fuera imposible perderse, que el usuario siempre supiera donde esta.
