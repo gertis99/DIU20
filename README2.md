@@ -61,7 +61,7 @@ Hemos elegido estas experiencias porque son sucesos que nos han ocurrido a nosot
 ![](P1/JourneyMapOldbag.png)
 
 # Usability Review
-Para valorar de la mejor manera posible la página (competidora) de meetup, hicimos un estudio donde valoramos de forma objetiva distintos aspectos referentes a la experiencia del usuario y otras funcionalidades, asignándole una nota final a la página web. 
+Para valorar de la mejor manera posible la página (competidora) de meetup, hicimos un estudio donde valoramos de forma objetiva distintos aspectos referentes a la experiencia del usuario y otras funcionalidades, asignándole una nota final a la página web.
 [documento](https://github.com/ralesdi/DIU20/blob/master/P1/UsabilityReview.pdf)
 Valoración final (numérica): 78
 Calificamos a esta página con esta nota debido a que nos parece que está muy bien trabajada. Es muy profesional, creemos que puede ser utilizada por todo tipo de personas debido a su accesibilidad y que en general cumple con su objetivo sin ningún problema. Si bien, para realizar funciones más allá de apuntarse a actividades está más limitada.
@@ -93,7 +93,7 @@ Para poder crear una aplicación, antes debemos planear como queremos que se vea
 
 ## Wireframes
 Una vez hechos los bocetos y están pulidos, podemos pasar a ver como se verían en una buena calidad.
-![](P3/PortadaHiFi.pdf)
+![](P3/PortadaHiFi.png)
 
 ## Style Guide
 Cualquier aplicación que se precie debe tener su propio estilo, desmarcarse del resto para ser una marca única y reconocible. Por eso preparamos una Guía que nos explica el por qué de nuestras decisiones tomadas, en qué están basadas y como debe aplicarse.
