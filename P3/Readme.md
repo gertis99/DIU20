@@ -24,6 +24,15 @@ Por ejemplo, un estudio de los tipos de usuarios que van a utilizar la app y que
 ### Conclusión
 Los desarrolladores han realizado verdaderamente un gran trabajo de diseño y planteamiento para su aplicación, usande una gran variedad de métodos que han abarcado prácticamente todas las necesidades que han tenido, facilitándole mucho el trabajo, demostrando la importancia de hacer un buen trabajo de análisis y la utilización de los métodos de estudio idóneos. Aún así, siempre hay un pequeño margen de mejora, como hemos comentado.
 
+# Patrones de diseño y Guidelines
+
+## Tipografia
+La tipografía elegida para el proyecto que estamos desarrollando es una de palo seco debido a que se va a utilizar siempre en medios digitales y esto facilita su lectura y evita cansar la vista del usuario. Tambi ́en hemos pensado que esta tipografía tiene que ser ante todo funcional, es por eso que la hemos sacado de Google Fonts, porque ¿de qué nos hubiera servido elegir la tipografía más bella, si luego el dispositivo que se conecte a la página no la tiene y en su lugar usa una por defecto? Usando de este tipo evitamos justamente ese problema, siendo que es el servidor el que proporciona la tipografía y no el cliente.
+
+Sabemos que las tipografías son como la voz de las aplicaciones, y siendo que nuestra aplicación se centra en actividades queremos que transmita energía al leerla. Es una tipografía con un estilo desenfadado, simple y muy divertido. Estamos hablando de Varela Round. Por supuesto esta es una fuente Open Font, por lo que podremos usarla sin problemas en nuestra página web.
+
+![](tipografia.png)
+
 
 # Valoración personal sobre la práctica
 Tras la realización de esta práctica, y el anális del desarrollo de MuseMap, nos hemos dado cuenta de la importancia que tiene realizar unos métodos UX adecuados para poder seguir el desarrollo de la aplicación imaginada de la forma más dinámica y acertada posible. También nos hemos dado cuenta de la dificultad que tiene condensar el trabajo que tiene detrás cualquier desarrollo en una franja de tiempo menor a dos minutos, para que sea atractivo sin dejar puntos importantes en el camino. Aún así, estamos satisfechos con el trabajo realizado y con el aprendizaje obtenido, hoy somos mejores que ayer.
