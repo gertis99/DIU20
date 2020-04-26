@@ -47,7 +47,7 @@ Juntos, nos hace recordar o imaginar paisajes paradis ́ıacos como una playa (a
 ## Logo
 Como toda buena aplicación que se precie, debe tener un logo que se reconocible a simple vista y que sea capaz de quedarse marcado en la gente. En la anterior práctica ya explicamos en qué se basaba nuestro logo. Jugábamos con las iniciales del nombre Do it!. Ahora solo lo hemos cambiado ligeramente para que se adapte al nuevo paradigma. Si usamos el logo con los colores de la página, quedará tal que así:
 
-![](logo.png)
+![](logo.png){:height="50%" width="50%"}
 
 ## Iconografía
 Para la iconografía decidimos que fueran lo más minimalistas posibles con el objetivo de que la imagen represente justo lo que queremos, ese concepto básico. A la vez quer ́ıamos que tuviera un aspecto amigable. A través de la página [onlinelogomaker.com](onlinelogomaker.com) realizamos un aproximado de como serían los iconos respetando los colores de la página. Por ejemplo, el icono del creador de actividades quedaría de la siguiente manera:
