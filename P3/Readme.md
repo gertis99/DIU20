@@ -27,8 +27,11 @@ Los desarrolladores han realizado verdaderamente un gran trabajo de diseño y pl
 # Patrones de diseño y Guidelines
 
 ## Tipografia
-La tipografía elegida para el proyecto que estamos desarrollando es una de palo seco debido a que se va a utilizar siempre en medios digitales y esto facilita su lectura y evita cansar la vista del usuario. Tambi ́en hemos pensado que esta tipograf ́ıa tiene que ser ante todo funcional, es por eso que la hemos sacado de Google Fonts, porque ¿de qu ́e nos hubiera servido elegir la tipografıa m ́as bella, si luego el dispositivo que se conecte a la p ́agina no la tiene y en su lugar usa una por defecto? Usando de este tipo evitamos justamente ese problema, siendo que es el servidor el que proporciona la tipograf ́ıa y no el cliente.
-Sabemos que las tipograf ́ıas son como la voz de las aplicaciones, y siendo que nuestra apli- caci ́on se centra en actividades queremos que transmita energ ́ıa al leerla. Es una tipograf ́ıa con un estilo desenfadado, simple y muy divertido. Estamos hablando de Varela Round. Por supuesto esta es una fuente Open Font, por lo que podremos usarla sin problemas en nuestra p ́agina web.
+La tipografía elegida para el proyecto que estamos desarrollando es una de palo seco debido a que se va a utilizar siempre en medios digitales y esto facilita su lectura y evita cansar la vista del usuario. Tambi ́en hemos pensado que esta tipografía tiene que ser ante todo funcional, es por eso que la hemos sacado de Google Fonts, porque ¿de qué nos hubiera servido elegir la tipografía más bella, si luego el dispositivo que se conecte a la página no la tiene y en su lugar usa una por defecto? Usando de este tipo evitamos justamente ese problema, siendo que es el servidor el que proporciona la tipografía y no el cliente.
+
+Sabemos que las tipografías son como la voz de las aplicaciones, y siendo que nuestra aplicación se centra en actividades queremos que transmita energía al leerla. Es una tipografía con un estilo desenfadado, simple y muy divertido. Estamos hablando de Varela Round. Por supuesto esta es una fuente Open Font, por lo que podremos usarla sin problemas en nuestra página web.
+
+![](tipografia.png)
 
 
 # Valoración personal sobre la práctica
