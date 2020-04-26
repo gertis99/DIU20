@@ -1,4 +1,4 @@
-# ANÁLISIS MUSEMAP
+# Análisis del MuseMap
 
 Con MuseMap, sus creadores nos han mostrado como hacer un gran estudio sobre UX y como afrontar el desarrollo de una idea desde el punto de vista del diseño.
 
@@ -27,3 +27,7 @@ Los desarrolladores han realizado verdaderamente un gran trabajo de diseño y pl
 
 # Valoración personal sobre la práctica
 Tras la realización de esta práctica, y el anális del desarrollo de MuseMap, nos hemos dado cuenta de la importancia que tiene realizar unos métodos UX adecuados para poder seguir el desarrollo de la aplicación imaginada de la forma más dinámica y acertada posible. También nos hemos dado cuenta de la dificultad que tiene condensar el trabajo que tiene detrás cualquier desarrollo en una franja de tiempo menor a dos minutos, para que sea atractivo sin dejar puntos importantes en el camino. Aún así, estamos satisfechos con el trabajo realizado y con el aprendizaje obtenido, hoy somos mejores que ayer.
+
+# Links
+[Repositorio de Github](https://github.com/ralesdi/DIU20)
+[Enlace al video presentación](https://drive.google.com/file/d/15g9UXXsQKBZ78SySnKnvGlWCMaZMkGeP/view?usp=sharing)
