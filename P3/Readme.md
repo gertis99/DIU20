@@ -23,3 +23,7 @@ Por ejemplo, un estudio de los tipos de usuarios que van a utilizar la app y que
 
 ### Conclusión
 Los desarrolladores han realizado verdaderamente un gran trabajo de diseño y planteamiento para su aplicación, usande una gran variedad de métodos que han abarcado prácticamente todas las necesidades que han tenido, facilitándole mucho el trabajo, demostrando la importancia de hacer un buen trabajo de análisis y la utilización de los métodos de estudio idóneos. Aún así, siempre hay un pequeño margen de mejora, como hemos comentado.
+
+
+# Valoración personal sobre la práctica
+Tras la realización de esta práctica, y el anális del desarrollo de MuseMap, nos hemos dado cuenta de la importancia que tiene realizar unos métodos UX adecuados para poder seguir el desarrollo de la aplicación imaginada de la forma más dinámica y acertada posible. También nos hemos dado cuenta de la dificultad que tiene condensar el trabajo que tiene detrás cualquier desarrollo en una franja de tiempo menor a dos minutos, para que sea atractivo sin dejar puntos importantes en el camino. Aún así, estamos satisfechos con el trabajo realizado y con el aprendizaje obtenido, hoy somos que mejores que ayer.
