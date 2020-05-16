@@ -6,7 +6,7 @@ El equipo [MGM](https://github.com/ralesdi/DIU20/blob/master/P4/UXCaseStudy-revi
 
 El Journey Map que hemos hecho tiene relación con la página en la que se basa el equipo:
 Hemos querido reflejar uno de los problemas que ha comentado el equipo en la práctica, que es la excesiva información y el uso de terminos ambiguos que puedan llevar a confusión a usuarios nuevos.
-![](JourneyMapMGM.png)
+![](https://github.com/ralesdi/DIU20/blob/master/P4/JourneyMapMGM.png)
 
 >Nota Final: **44**
 
@@ -15,7 +15,7 @@ El equipo [MJölnir](https://github.com/ralesdi/DIU20/blob/master/P4/UXCaseStudy
 
 El Journey Map que hemos hecho tiene relación con la app que ha desarrollado el equipo:
 Aquí hemos querido reflejar un punto flojo de la aplicación, que es la dependencia que tiene esta de aplicaciones externas como pueden ser Facebook o el correo electrónico.
-![](JourneyMapMjolnir.png)
+![](https://github.com/ralesdi/DIU20/blob/master/P4/JourneyMapMjolnir.png)
 
 >Nota Final: **74**
 
@@ -33,7 +33,7 @@ En este caso hemos querido abordar la falta de accesibilidad de la que suelen pe
 
 | 2º | 1º | 3º |
 | ------------- | ------------- | ------------- |
-| Mjölnir  | Learning  | MGM |
+| [Mjölnir](https://github.com/Nintwarr/DIU20)  | [Learning](https://github.com/salva12345678/DIU)  | [MGM](https://github.com/Manu8G/DIU20) |
 
 Esta práctica ha sido como una linea ascendente, pasando de menos a más. Hemos aprendido a valorar mucho el trabajo que hay detrás de todo el diseño de una aplicación, por simple que sea. Aunque se supone que todos deberíamos haber seguido una misma línea de trabajo nos hemos encontrado con tres situaciones completamente distintas. También nos ha sorprendido la manera que han tenido los distintos grupos de abordar un mismo problema desde sus propias perspectivas.
 
