@@ -8,7 +8,7 @@ El Journey Map que hemos hecho tiene relación con la página en la que se basa 
 Hemos querido reflejar uno de los problemas que ha comentado el equipo en la práctica, que es la excesiva información y el uso de terminos ambiguos que puedan llevar a confusión a usuarios nuevos.
 ![](JourneyMapMGM.png)
 
-Nota Final: **44**
+>Nota Final: **44**
 
 ## Equipo DIU2.Mjölnir
 El equipo [MJölnir](https://github.com/ralesdi/DIU20/blob/master/P4/UXCaseStudy-review%20DIU2-Mjolnir.xls) ha sido un buen trabajo. Queremos destacar sobre todo el magnifico video realizado. Nos encantaron las personas, debido a que estaban muy bien detalladas y tenían incluso biografía que acompañaba a su ficha. Este equipo tiene muchos puntos fuertes, aunque en nuestra opinión flojea un poco en la propuesta, donde en lugar de proponer una aplicación propia propone la app de una página web en móvil.
@@ -17,7 +17,7 @@ El Journey Map que hemos hecho tiene relación con la app que ha desarrollado el
 Aquí hemos querido reflejar un punto flojo de la aplicación, que es la dependencia que tiene esta de aplicaciones externas como pueden ser Facebook o el correo electrónico.
 ![](JourneyMapMjolnir.png)
 
-Nota Final: **74**
+>Nota Final: **74**
 
 ## Equipo DIU3.Learning
 El equipo [Learning](https://github.com/ralesdi/DIU20/blob/master/P4/UXCaseStudy-review%20DIU3-Learning.xls) nos ha sorprendido para bien. Ha demostrado haber desarrollado un trabajo impecable donde ha primado el esfuerzo por encima de todo. Tampoco ha faltado originalidad e imaginación en cada una de las prácticas. Prácticamente no tiene ningún punto negativo, como mucho el hecho de que los colores han sido elegidos en base a una imagen de internet.
@@ -25,4 +25,7 @@ El equipo [Learning](https://github.com/ralesdi/DIU20/blob/master/P4/UXCaseStudy
 El Journey Map que hemos hecho tiene relación con la app que propone el equipo:
 En este caso hemos querido abordar la falta de accesibilidad de la que suelen pecar la gran mayoría de aplicaciones. Hemos puesto el caso de alguien con problemas visuales, debido a que, con los bocetos vistos, pensamos que la aplicación carecerá de accesibilidad al mostrar tanta información en pantalla y con tantos iconos y tan pequeños.
 ![](https://github.com/ralesdi/DIU20/blob/master/P4/JourneyMapLearning.png)
-Nota Final: **89**
+
+>Nota Final: **89**
+
+## Conclusión
