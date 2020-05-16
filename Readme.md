@@ -135,7 +135,7 @@ En este caso hemos querido abordar la falta de accesibilidad de la que suelen pe
 
 | 2º | 1º | 3º |
 | ------------- | ------------- | ------------- |
-| Mjölnir  | Learning  | MGM |
+| [Mjölnir](https://github.com/Nintwarr/DIU20)  | [Learning](https://github.com/salva12345678/DIU)  | [MGM](https://github.com/Manu8G/DIU20) |
 
 Esta práctica ha sido como una linea ascendente, pasando de menos a más. Hemos aprendido a valorar mucho el trabajo que hay detrás de todo el diseño de una aplicación, por simple que sea. Aunque se supone que todos deberíamos haber seguido una misma línea de trabajo nos hemos encontrado con tres situaciones completamente distintas. También nos ha sorprendido la manera que han tenido los distintos grupos de abordar un mismo problema desde sus propias perspectivas.
 
