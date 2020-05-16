@@ -108,7 +108,7 @@ El equipo [MGM](https://github.com/ralesdi/DIU20/blob/master/P4/UXCaseStudy-revi
 
 El Journey Map que hemos hecho tiene relación con la página en la que se basa el equipo:
 Hemos querido reflejar uno de los problemas que ha comentado el equipo en la práctica, que es la excesiva información y el uso de terminos ambiguos que puedan llevar a confusión a usuarios nuevos.
-![](JourneyMapMGM.png)
+![](https://github.com/ralesdi/DIU20/blob/master/P4/JourneyMapMGM.png)
 
 >Nota Final: **44**
 
@@ -117,7 +117,7 @@ El equipo [MJölnir](https://github.com/ralesdi/DIU20/blob/master/P4/UXCaseStudy
 
 El Journey Map que hemos hecho tiene relación con la app que ha desarrollado el equipo:
 Aquí hemos querido reflejar un punto flojo de la aplicación, que es la dependencia que tiene esta de aplicaciones externas como pueden ser Facebook o el correo electrónico.
-![](JourneyMapMjolnir.png)
+![](https://github.com/ralesdi/DIU20/blob/master/P4/JourneyMapMjolnir.png)
 
 >Nota Final: **74**
 
