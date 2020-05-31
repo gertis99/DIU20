@@ -5,6 +5,8 @@
 
 ### Análisis Competencia
 
+![](CompetitiveAnalysisGrid.png)
+
 #### Meetup
 Nada más entrar en la página de meetup por primera vez, nos pide que nos registremos, si no, solo podremos ver los diferentes grupos de actividades que hay, pero no buscar por zona ni nombre ni fecha. Una vez iniciemos sesión, esto será mucho más fácil e intuitivo. Nos saldrá un listado ordenado por fecha y hora. Nosotros podremos elegir en que ciudad queremos buscar y el radio de la zona, pero por defecto sale asignado la capital de tu país, lo que puede llevar a errores. La búsqueda por palabra podría ser mejor, ya que solo encuentra actividades que contengan esa palabra exactamente, por ejemplo, si quieres dar un paseo y buscas “pasear” no te saldrán las opciones de senderismo o paseo, solo las que tengan “pasear” en el nombre o en la descripción. Al entrar en una actividad veremos la descripción de esta, los asistentes debajo de esta descripción, precio, lugar, fecha, hora y un botón en grande y en rojo para apuntarse, todo muy intuitivo y limpio.
 Para crear un grupo para actividades (es necesario crear un grupo primero), en la página del listado aparecerá un apartado arriba diferenciado para hacerlo, el cual nos dará instrucciones claras y sencillas, imposible perderse. 
