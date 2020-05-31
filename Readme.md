@@ -145,4 +145,4 @@ La interfaz de usuario y la experiencia que tiene el mismo suele pasar desaperci
 
 Los cambios realizados en esta práctica son los siguientes:
 - Cabecera completada, debido a que faltaba información importante de la práctica.
-
+- Hecha tabla comparativa del Competitive Analysis (P1).
