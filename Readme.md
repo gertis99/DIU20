@@ -7,7 +7,7 @@ Proyecto: Do it! (Experiencias de Compartir Ocio)
 
 Descripción: Esta será una aplicación que permitirá a las personas tanto poder desarrollar actividades en la zona donde residen con posibilidad de poder monetizarlas, así como poder apuntarse a eventos y participar de actividades. También será una aplicación basada en la interacción entre usuarios dentro de la misma aplicación para crear estrechos vinculos y que toda la organización se pueda hacer sin tener que recurrir a aplicaciones o webs externas.
 
-Logotipo: P4/logo.png
+Logotipo: ![](P4/logo.png)
 
 Miembros
  * :bust_in_silhouette: Alessandro Rinaldi Gómez  :octocat: \@Ralesdi  
