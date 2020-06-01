@@ -51,3 +51,8 @@ Puedes acceder al documento desde [aquí](https://github.com/ralesdi/DIU20/blob/
 Valoración final (numérica): 78
 
 Comentario sobre la valoración: calificamos a esta página con esta nota debido a que nos parece que está muy bien trabajada. Es muy profesional, creemos que puede ser utilizada por todo tipo de personas debido a su accesibilidad y que en general cumple con su objetivo sin ningún problema. Si bien, para realizar funciones más allá de apuntarse a actividades está más limitada.
+
+Los problemas principales respecto a la usabilidad que tiene esta página son los siguientes:
+- Para poder navegar y realizar búsquedas por la página comodamente primero tenemos que registrarnos.
+- La ubicación se sitúa por defecto en Madrid(capital), lo cual puede llevar a confusiones.
+- La búsqueda se realiza por coincidencias exactas en lugar de términos, tampoco se pueden usar tags.
