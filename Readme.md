@@ -153,3 +153,4 @@ Los cambios realizados en esta práctica son los siguientes:
 - Hecha lista con problemas de usabilidad en la sección de Usability Review (P1)
 - Añadida explicación de los Journey Maps (P1)
 - Añadidas más tareas a la User Task Matrix (P2)
+- Añadida iconografía al labelling (P2)
