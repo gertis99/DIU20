@@ -51,7 +51,7 @@ Para ver como se sienten los usuarios respecto a las funcionalidades de las apli
 
 Elegimos a Diego Armando y a Wendy Oldbag para tener a dos personas de edades dispares, una persona de 27 años y otra de 60. También a personas tanto con cualificaciones universitarias como de FP. Buscamos tener a personas con distintos conocimientos de informática y software. En definitiva, tener a dos personas que sean distintas y complementarias entre sí.
 
-Las personas, además de sus Journey Maps se pueden encontrar en el siguiente ![enlace](P1/README.md)
+Las personas, además de sus Journey Maps se pueden encontrar en el siguiente [enlace](P1/README.md)
 
 # Journey Map
 
@@ -146,6 +146,7 @@ La interfaz de usuario y la experiencia que tiene el mismo suele pasar desaperci
 
 Los cambios realizados en esta práctica son los siguientes:
 - Cabecera completada, debido a que faltaba información importante de la práctica.
+- Rediseñado el README principal para ser más concisos y dar un aspecto más profesional.
 - Hecha tabla comparativa del Competitive Analysis (P1).
 - Hecha lista con problemas de usabilidad en la sección de Usability Review (P1)
 - Añadida explicación de los Journey Maps (P1)
