@@ -85,7 +85,8 @@ Con esta estructura intentamos que la página sea lo más cómodamente navegable
 
 ## Labelling
 Para empezar, creamos la jerarquía de nuestra página web. Al crearla intentamos que fuera lo más sencilla y simple posible para que el usuario se adaptara facilmente a ella. Queríamos que fuera imposible perderse, que el usuario siempre supiera donde esta.
-![](P2/ArquitecturaInformacion-Labelling.PNG)
+
+[Labelling](P2/ArquitecturaInformacion-Labelling.PNG)
 
 
 ## Design Studio
