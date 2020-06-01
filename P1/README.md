@@ -5,6 +5,8 @@
 
 ### Análisis Competencia
 
+![](CompetitiveAnalysisGrid.png)
+
 #### Meetup
 Nada más entrar en la página de meetup por primera vez, nos pide que nos registremos, si no, solo podremos ver los diferentes grupos de actividades que hay, pero no buscar por zona ni nombre ni fecha. Una vez iniciemos sesión, esto será mucho más fácil e intuitivo. Nos saldrá un listado ordenado por fecha y hora. Nosotros podremos elegir en que ciudad queremos buscar y el radio de la zona, pero por defecto sale asignado la capital de tu país, lo que puede llevar a errores. La búsqueda por palabra podría ser mejor, ya que solo encuentra actividades que contengan esa palabra exactamente, por ejemplo, si quieres dar un paseo y buscas “pasear” no te saldrán las opciones de senderismo o paseo, solo las que tengan “pasear” en el nombre o en la descripción. Al entrar en una actividad veremos la descripción de esta, los asistentes debajo de esta descripción, precio, lugar, fecha, hora y un botón en grande y en rojo para apuntarse, todo muy intuitivo y limpio.
 Para crear un grupo para actividades (es necesario crear un grupo primero), en la página del listado aparecerá un apartado arriba diferenciado para hacerlo, el cual nos dará instrucciones claras y sencillas, imposible perderse. 
@@ -40,7 +42,9 @@ Hemos elegido a Diego Armando y a Wendy Oldbag para tener a dos personas de edad
 Hemos elegido estas experiencias porque son sucesos que nos han ocurrido a nosotros mismos en varias ocasiones mientras estábamos testeando meetup.com. Pensamos que son experiencias que pueden llegar a ser reales y por eso están hechas así.
 
 ![](JourneyMapArmando.png)
+En este Journey Map hemos querido reflejar uno de los problemas de usabilidad más importantes que vemos, que es la ubicación por defecto que se usa. Porque pensamos que es algo que, aunque no lleve al usuario a no usar la aplicación, si es algo que puede llegar a frustrarlo.
 ![](JourneyMapOldbag.png)
+En este Journey Map hemos querido enfatizar la importancia de poder acceder fácilmente a las personas que van a acceder a cada uno de los eventos, esto puede ayudar a las personas a imaginarse como puede ser su experiencia y saber si van a ir grupos de personas de su edad, debido a que el desconocimiento de los asistentes puede llevar a experiencias poco satisfactorias o incluso embarazosas.
 
 ## Revisión de Usabilidad
 
@@ -49,3 +53,8 @@ Puedes acceder al documento desde [aquí](https://github.com/ralesdi/DIU20/blob/
 Valoración final (numérica): 78
 
 Comentario sobre la valoración: calificamos a esta página con esta nota debido a que nos parece que está muy bien trabajada. Es muy profesional, creemos que puede ser utilizada por todo tipo de personas debido a su accesibilidad y que en general cumple con su objetivo sin ningún problema. Si bien, para realizar funciones más allá de apuntarse a actividades está más limitada.
+
+Los problemas principales respecto a la usabilidad que tiene esta página son los siguientes:
+- Para poder navegar y realizar búsquedas por la página comodamente primero tenemos que registrarnos.
+- La ubicación se sitúa por defecto en Madrid(capital), lo cual puede llevar a confusiones.
+- La búsqueda se realiza por coincidencias exactas en lugar de términos, tampoco se pueden usar tags.
