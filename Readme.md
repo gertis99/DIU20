@@ -147,3 +147,4 @@ Los cambios realizados en esta práctica son los siguientes:
 - Cabecera completada, debido a que faltaba información importante de la práctica.
 - Hecha tabla comparativa del Competitive Analysis (P1).
 - Hecha lista con problemas de usabilidad en la sección de Usability Review (P1)
+- Añadida explicación de los Journey Maps (P1)
