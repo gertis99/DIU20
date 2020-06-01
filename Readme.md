@@ -74,8 +74,10 @@ Calificamos a esta página con esta nota debido a que nos parece que está muy b
 
 Queremos crear una aplicación que permita más facilmente a los usuarios comunicarse entre sí para llevar a cabo actividades, añadiendo la posibilidad de que puedan tener retribuciones económicas y que puedan profesionalizar estos servicios. Queremos que sea lo más simple posible para los usuarios, intentando apelar al lenguaje simbólico en lugar del natural.
 
-#Tasks and Sitemap
+# Tasks and Sitemap
+
 ![](P2/UserMatrix.PNG)
+
 Hemos elegido la matriz ya que nos parece que es la forma más rápida y visual de ver que actividades son más importantes y se van usar más y que tipo de usuarios tendremos. Aparte de los usuarios de baja/media/alta frecuencia de nuestra web, hemos querido tener en consideración también a los usuarios que no están registrados y a los usuarios que solo están interesados en crear actividades, ya que creemos que son un grupo de personas bastante importante también.
 
 ![](P2/ArquitecturaInformación-Estructura.png)
@@ -150,3 +152,4 @@ Los cambios realizados en esta práctica son los siguientes:
 - Hecha tabla comparativa del Competitive Analysis (P1).
 - Hecha lista con problemas de usabilidad en la sección de Usability Review (P1)
 - Añadida explicación de los Journey Maps (P1)
+- Añadidas más tareas a la User Task Matrix (P2)
