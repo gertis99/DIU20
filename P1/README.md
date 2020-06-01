@@ -42,7 +42,9 @@ Hemos elegido a Diego Armando y a Wendy Oldbag para tener a dos personas de edad
 Hemos elegido estas experiencias porque son sucesos que nos han ocurrido a nosotros mismos en varias ocasiones mientras estábamos testeando meetup.com. Pensamos que son experiencias que pueden llegar a ser reales y por eso están hechas así.
 
 ![](JourneyMapArmando.png)
+En este Journey Map hemos querido reflejar uno de los problemas de usabilidad más importantes que vemos, que es la ubicación por defecto que se usa. Porque pensamos que es algo que, aunque no lleve al usuario a no usar la aplicación, si es algo que puede llegar a frustrarlo.
 ![](JourneyMapOldbag.png)
+En este Journey Map hemos querido enfatizar la importancia de poder acceder fácilmente a las personas que van a acceder a cada uno de los eventos, esto puede ayudar a las personas a imaginarse como puede ser su experiencia y saber si van a ir grupos de personas de su edad.
 
 ## Revisión de Usabilidad
 
