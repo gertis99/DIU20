@@ -154,3 +154,7 @@ Los cambios realizados en esta práctica son los siguientes:
 - Añadida explicación de los Journey Maps (P1)
 - Añadidas más tareas a la User Task Matrix (P2)
 - Añadida iconografía al labelling (P2)
+
+# Trabajos futuros
+
+Si bien, por falta de tiempo, no hemos podido hacer el cambio de los bocetos y los mockups de nuestra página web para pasarlo a aplicación (tal como se debía hacer en las prácticas), pensamos anotarlo y trabajarlo como futuros proyectos para mejorarlo al máximo posible. Incluso, podemos aprovechar este fallo para convertirlo en una fortaleza. Al tener ya un diseño de la página web, si además realizamos los bocetos de app, podríamos hacer un proyecto que diera soporte en ambas plataformas. Los errores te hacen más fuerte.
